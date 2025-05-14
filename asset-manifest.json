@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/keen4-react/static/css/main.2059ccf6.css",
+    "main.js": "/keen4-react/static/js/main.9d2f315a.js",
+    "static/js/787.317c3932.chunk.js": "/keen4-react/static/js/787.317c3932.chunk.js",
+    "index.html": "/keen4-react/index.html",
+    "main.2059ccf6.css.map": "/keen4-react/static/css/main.2059ccf6.css.map",
+    "main.9d2f315a.js.map": "/keen4-react/static/js/main.9d2f315a.js.map",
+    "787.317c3932.chunk.js.map": "/keen4-react/static/js/787.317c3932.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2059ccf6.css",
+    "static/js/main.9d2f315a.js"
+  ]
+}
